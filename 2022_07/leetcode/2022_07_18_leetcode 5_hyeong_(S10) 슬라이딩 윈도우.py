@@ -16,5 +16,6 @@ class Solution:
 b = Solution()
 a = ["babad", "cbbd"]
 
+
 for i in a:
     print(b.longestPalindrome(i))
